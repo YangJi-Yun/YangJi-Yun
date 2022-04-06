@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c8a4ef&height=300&section=header&text=Hello%20I'm%20JiYun&fontSize=80&fontColor=ffffff)
   
 ### 🙌Introduction
-풀스택 개발자고 되고 싶은 열정 가득 신입 개발자입니다.
+풀스택 개발자가 되고 싶은 열정 가득 신입 개발자입니다.
 <br/>
 <br/>
   
